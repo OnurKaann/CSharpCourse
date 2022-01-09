@@ -1,0 +1,6 @@
+C:\Users\Onur Kaan Ateş\source\repos\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Users\Onur Kaan Ateş\source\repos\CSharpCourse\Conditionals\bin\Debug\Conditionals.exe
+C:\Users\Onur Kaan Ateş\source\repos\CSharpCourse\Conditionals\bin\Debug\Conditionals.pdb
+C:\Users\Onur Kaan Ateş\source\repos\CSharpCourse\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\Onur Kaan Ateş\source\repos\CSharpCourse\Conditionals\obj\Debug\Conditionals.exe
+C:\Users\Onur Kaan Ateş\source\repos\CSharpCourse\Conditionals\obj\Debug\Conditionals.pdb
